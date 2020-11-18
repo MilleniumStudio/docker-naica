@@ -2,7 +2,7 @@
 
 unity_version=2019.2.3f1
 unity_changeset=8e55c27a4621
-unity_modules=( android ios windows-il2cpp )
+unity_modules=( android ios windows-mono )
 
 
 cd editor
